@@ -31,8 +31,8 @@ $preset = @(
 	### Service Tweaks ###
 	# "LowerUAC",                   # "RaiseUAC",
 	# "EnableSharingMappedDrives",  # "DisableSharingMappedDrives",
-	"DisableAdminShares",           # "EnableAdminShares",
-	"DisableFirewall",              # "EnableFirewall",
+	#"DisableAdminShares",           # "EnableAdminShares",
+	#"DisableFirewall",              # "EnableFirewall",
 	# "DisableDefender",            # "EnableDefender",
 	# "DisableUpdateMSRT",          # "EnableUpdateMSRT",
 	# "DisableUpdateDriver",        # "EnableUpdateDriver",
@@ -46,7 +46,7 @@ $preset = @(
 	# "SetBIOSTimeUTC",             # "SetBIOSTimeLocal",
 
 	### UI Tweaks ###
-	"DisableActionCenter",          # "EnableActionCenter",
+	#"DisableActionCenter",          # "EnableActionCenter",
 	"DisableLockScreen",            # "EnableLockScreen",
 	# "DisableLockScreenRS1",       # "EnableLockScreenRS1",
 	"DisableStickyKeys",            # "EnableStickyKeys",
